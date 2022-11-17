@@ -1,0 +1,58 @@
+  [{
+      "movieId":"1",
+      "firstName":"prem",
+      "lastName":"parikh",
+      "Journals":"comedy",
+      "director":"david"
+     },
+     {
+          "movieId":"2",
+          "firstName":"warner",
+          "lastName":"clark",
+          "Journals":"romantic",
+          "director":"singh"
+    },
+    {
+     "movieId":"3",
+     "firstName":"aditya",
+     "lastName":"rathod",
+     "Journals":"scary",
+     "director":"PP"
+     },
+{
+     "movieId":"4",
+     "firstName":"virat",
+     "lastName":"kholi",
+     "Journals":"History",
+     "director":"ak"
+     },
+{
+     "movieId":"5",
+     "firstName":"jimmy",
+     "lastName":"sammy",
+     "Journals":"documentary",
+     "director":"gayle"
+     },
+{
+     "movieId":"6",
+     "firstName":"brain",
+     "lastName":"lara",
+     "Journals":"History",
+     "director":"ronaldo"
+     },
+     {
+          "movieId":"7",
+          "firstName":"steve",
+          "lastName":"smith",
+          "Journals":"thriller",
+          "director":"stone"
+          },
+{
+     "movieId":"8",
+     "firstName":"andrew",
+     "lastName":"steel",
+     "Journals":"comedy",
+     "director":"brathwaite"
+     }
+
+]
